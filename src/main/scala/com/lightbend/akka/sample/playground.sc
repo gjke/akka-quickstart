@@ -13,3 +13,5 @@ def check(message: Clazz): Unit = {
 }
 
 check(Event("Merkel", "Obama"))
+
+
